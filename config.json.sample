@@ -1,0 +1,8 @@
+{
+    "program_description": "DESCRIPTION GOES HERE",
+    "logfile": "./application.log",
+    "working_directory": "./",
+    "log_levels": {
+        "server": 20
+    }
+}
